@@ -1,0 +1,22 @@
+{
+  "name": "quran-search-terminal",
+  "version": "1.0.0",
+  "description": "A simple CLI tool to search and display Quran surahs from the terminal.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "quran",
+    "terminal",
+    "cli",
+    "javascript",
+    "islamic",
+    "search"
+  ],
+  "author": "sukatank01",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {}
+}
