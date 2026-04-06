@@ -34,4 +34,9 @@ Pastikan kamu telah menginstal [Node.js](https://nodejs.org/) di komputer kamu.
 3. Jalankan perintah berikut:
 
 ```bash
-node index.js
+apt update && apt upgrade
+apt install nodejs npm git -y
+git clone https://github.com/SukaTank01/Codepencarisurah
+cd Codepencarisurah
+npm i && npm start
+```
